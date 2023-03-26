@@ -20,7 +20,7 @@ let albums = [
                 isPlaying: false
             },
             {
-                title: `PhonkAttack`,
+                title: `Phonk Attack`,
                 Author: `Screamix`,
                 time: `3:59`,
                 src: `music/PhonkAttack.mp3`,
@@ -35,21 +35,21 @@ let albums = [
         description: `Описание альбома, прочитав которое, вы просто не сможете устоять перед прослушиванием.`,
         tracks: [
             {
-                title: `Трек 1`,
+                title: `Close Eyes`,
                 Author: `DVRST`,
                 time: `3:59`,
                 src: `music/CloseEyes`,
                 isPlaying: false
             },
             {
-                title: `Трек 2`,
+                title: `RAVE`,
                 Author: `Dxrk ダーク`,
                 time: `3:59`,
                 src: `music/RAVE`,
                 isPlaying: false
             },
             {
-                title: `Трек 3`,
+                title: `Phonk Attack`,
                 Author: `Screamix`,
                 time: `3:59`,
                 src: `music/PhonkAttack.mp3`,
@@ -64,21 +64,21 @@ let albums = [
         description: `Описание альбома, прочитав которое, вы просто не сможете устоять перед прослушиванием.`,
         tracks: [
             {
-                title: `Трек 1`,
+                title: `Close Eyes`,
                 Author: `DVRST`,
                 time: `3:59`,
                 src: `music/CloseEyes`,
                 isPlaying: false
             },
             {
-                title: `Трек 2`,
+                title: `RAVE`,
                 Author: `Dxrk ダーク`,
                 time: `3:59`,
                 src: `music/RAVE`,
                 isPlaying: false
             },
             {
-                title: `Трек 3`,
+                title: `Phonk Attack`,
                 Author: `Screamix`,
                 time: `3:59`,
                 src: `music/PhonkAttack.mp3`,
@@ -93,21 +93,21 @@ let albums = [
         description: `Описание альбома, прочитав которое, вы просто не сможете устоять перед прослушиванием.`,
         tracks: [
             {
-                title: `Трек 1`,
+                title: `Close Eyes`,
                 Author: `DVRST`,
                 time: `3:59`,
                 src: `music/CloseEyes`,
                 isPlaying: false
             },
             {
-                title: `Трек 2`,
+                title: `RAVE`,
                 Author: `Dxrk ダーク`,
                 time: `3:59`,
                 src: `music/RAVE`,
                 isPlaying: false
             },
             {
-                title: `Трек 3`,
+                title: `Phonk Attack`,
                 Author: `Screamix`,
                 time: `3:59`,
                 src: `music/PhonkAttack.mp3`,
